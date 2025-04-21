@@ -47,7 +47,7 @@ Try it out now with one click:
 | Task | Model Used |
 |------|------------|
 | Transcription | [`Whisper`](https://github.com/openai/whisper) |
-| Summarization | [`Mistral-7B`](https://mistral.ai) |
+| Summarization | [`Mistral-large-latest`](https://mistral.ai) |
 | Workflow Orchestration | [`LangGraph`](https://www.langgraph.dev/) |
 | UI | [`Gradio`](https://gradio.app) |
 
