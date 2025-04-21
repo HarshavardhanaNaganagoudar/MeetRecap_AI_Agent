@@ -36,9 +36,10 @@ Try it out now with one click:
 
 ## 💡 Real-World Use Cases
 
-- Teams who don’t have a dedicated note-taker.
-- Project managers who want summaries of daily standups.
-- Students or professionals who want a quick recap of lectures or discussions.
+- Busy teams without a designated note-taker – let AI handle the minutes.
+- Project managers needing clear summaries of sprint reviews or planning meetings.
+- HR or compliance officers who need to review interview panels or training sessions.
+- Researchers collaborating across departments who want a recap of collaborative calls.
 
 ---
 
