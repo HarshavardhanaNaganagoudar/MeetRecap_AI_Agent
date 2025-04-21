@@ -40,6 +40,8 @@ Try it out now with one click:
 - Project managers needing clear summaries of sprint reviews or planning meetings.
 - HR or compliance officers who need to review interview panels or training sessions.
 - Researchers collaborating across departments who want a recap of collaborative calls.
+- Consultants and agencies who need summaries of client calls and workshops.
+- Podcasters or content creators summarizing guest interviews.
 
 ---
 
