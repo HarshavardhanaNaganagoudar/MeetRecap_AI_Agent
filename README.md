@@ -56,6 +56,10 @@ Try it out now with one click:
 
 ---
 
+## Agent Workflow
+![Alt text](Agent_Workflow.png)
+
+---
 ## 🌍 Language Support
 
 Currently supports **English** only.  
