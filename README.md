@@ -48,7 +48,7 @@ Try it out now with one click:
 |------|------------|
 | Transcription | [`Whisper`](https://github.com/openai/whisper) |
 | Summarization | [`Mistral-large-latest`](https://mistral.ai) |
-| Workflow Orchestration | [`LangGraph`](https://www.langgraph.dev/) |
+| Workflow Orchestration | [`LangGraph`](https://www.langchain.com/langgraph) |
 | UI | [`Gradio`](https://gradio.app) |
 
 ---
