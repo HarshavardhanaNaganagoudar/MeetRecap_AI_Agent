@@ -1,4 +1,4 @@
-# 🤖 MeetRecap — AI-Powered Meeting Summarizer
+# 🤖 MeetRecap — From meeting to meaning. Instantly.
 
 **Your meeting assistant that listens so you don't have to take notes.**
 
@@ -30,7 +30,7 @@ Try it out now with one click:
 ## 🛠 How It Works (in 4 Simple Steps)
 
 1. **Upload** your `.wav` meeting recording.
-2. **Click Summarize** – the AI listens using Whisper and generates a transcript.
+2. **Click Summarize** – the AI listens using Faster-Whisper and generates a transcript.
 3. The transcript is **analyzed and summarized** by a language model (like Mistral).
 4. You get a clean summary with **attendees**, **key points**, **action items**, and **decisions**.
 
@@ -51,7 +51,7 @@ Try it out now with one click:
 
 | Task | Model Used |
 |------|------------|
-| Transcription | [`Whisper`](https://github.com/openai/whisper) |
+| Transcription | [`Faster-Whisper`](https://github.com/SYSTRAN/faster-whisper) |
 | Summarization | [`Mistral-large-latest`](https://mistral.ai) |
 | Workflow Orchestration | [`LangGraph`](https://www.langchain.com/langgraph) |
 | UI | [`Gradio`](https://gradio.app) |
