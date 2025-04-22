@@ -23,6 +23,8 @@ Try it out now with one click:
 
 [👉 Launch on Hugging Face Spaces](https://huggingface.co/spaces/nharshavardhana/MeetRecap)
 
+[📎Try with this sample audio meeting](https://drive.google.com/file/d/1p8q3UxIQK-_pzGjSKMnG2CeT4Weiof9Q/view?usp=drive_link)
+
 ---
 
 ## 🛠 How It Works (in 4 Simple Steps)
