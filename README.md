@@ -9,7 +9,7 @@
 Have you ever finished a long meeting and thought:
 > “Wait, what did we decide again?” or “Who was supposed to do what?”
 
-**MeetRecap** is an AI agent that takes a recorded meeting audio file (`.wav`) and summarizes everything important:
+**MeetRecap** is an AI agent that takes a recorded meeting audio file (`.mp3`,`.wav`,`.m4a`) and summarizes everything important:
 - 👥 **Attendees**
 - 💬 **Key Discussion Points**
 - ✅ **Action Items**
@@ -29,7 +29,7 @@ Try it out now with one click:
 
 ## 🛠 How It Works (in 4 Simple Steps)
 
-1. **Upload** your `.wav` meeting recording.
+1. **Upload** your (`.mp3`,`.wav`,`.m4a`) meeting recording.
 2. **Click Summarize** – the AI listens using Faster-Whisper and generates a transcript.
 3. The transcript is **analyzed and summarized** by a language model (like Mistral).
 4. You get a clean summary with **attendees**, **key points**, **action items**, and **decisions**.
